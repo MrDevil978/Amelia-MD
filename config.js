@@ -45,16 +45,16 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6283863727733', 'Amelia-MD', true],
+['17867822330', 'Devil-MD', true],
 ]
 global.autoketik = true //status auto mengetik (auto typing)
 global.available = true //status online (online)
 // Other
 global.mods = []
 global.prems = []
-global.nomorbot = '6283863727740'
+global.nomorbot = '17867822330'
 global.nameown = 'PutraModz'
-global.nomorown = '6283863727733'
+global.nomorown = '17867822330'
 global.nomorown1 = '6282214729677'
 global.nomorown2 = '6282214729677'
 global.nomorwa = '0'
